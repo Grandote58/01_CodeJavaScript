@@ -1,3 +1,5 @@
+![logo](https://github.com/Grandote58/Laravel_Magic/blob/main/Img/LogoGR58_1.png)
+
 # 🚀 **Ejercicios Prácticos de Introducción a JavaScript**
 
 Estos ejercicios están diseñados para reforzar el aprendizaje sobre **variables, tipos de datos y operaciones básicas en JavaScript**. Se recomienda realizarlos en **Visual Studio Code** y ejecutarlos con **Node.js**.
