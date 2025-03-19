@@ -1,3 +1,5 @@
+![logo](https://github.com/Grandote58/Laravel_Magic/blob/main/Img/LogoGR58_1.png)
+
 # 📌 **Unidad 1: Fundamentos de Programación con JavaScript**
 
 ## 🎯 **Introducción al Código y Variables en JavaScript**
